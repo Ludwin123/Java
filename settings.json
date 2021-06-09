@@ -1,0 +1,24 @@
+{
+  "java.home": "C:\\Program Files\\Java\\jdk-11.0.11",
+  "workbench.settings.editor": "ui",
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.fontFamily": "Cascadia Code",
+  "terminal.integrated.fontFamily": "Cascadia Code",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Monokai Dark Soda",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontLigatures": true,
+  "tabnine.experimentalAutoImports": true,
+  "sync.gist": "bd582efb907af107e6916ef7394339cd",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "files.autoSave": "onFocusChange"
+}
