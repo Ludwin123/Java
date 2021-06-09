@@ -151,16 +151,6 @@
   },
   {
     "metadata": {
-      "id": "61fcd0cf-64d7-4836-8d6b-d55f4fb83281",
-      "publisherId": "vscjava.vscode-java-debug",
-      "publisherDisplayName": "vscjava"
-    },
-    "name": "vscode-java-debug",
-    "publisher": "vscjava",
-    "version": "0.34.0"
-  },
-  {
-    "metadata": {
       "id": "7865e561-1c83-410e-9b99-aabada597a7e",
       "publisherId": "vscjava.vscode-java-dependency",
       "publisherDisplayName": "vscjava"
@@ -178,6 +168,16 @@
     "name": "vscode-java-pack",
     "publisher": "vscjava",
     "version": "0.16.0"
+  },
+  {
+    "metadata": {
+      "id": "e109b863-1993-4b40-be77-ef862fb2b470",
+      "publisherId": "YouMayCallMeV.vscode-java-saber",
+      "publisherDisplayName": "YouMayCallMeV"
+    },
+    "name": "vscode-java-saber",
+    "publisher": "YouMayCallMeV",
+    "version": "0.1.2"
   },
   {
     "metadata": {
